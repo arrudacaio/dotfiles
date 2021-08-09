@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+    "git.ignoreWindowsGit27Warning": true,
+    "editor.wordWrap": "on",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 20,
+    "terminal.integrated.fontSize": 14,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "JetBrains Mono, Fira Code",
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "editor.rulers": [80, 120],
+    "editor.parameterHints.enabled": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "extensions.ignoreRecommendations": true,
+
+}
