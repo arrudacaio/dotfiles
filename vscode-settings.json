@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Omni",
+    "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "material-icon-theme",
     "git.ignoreWindowsGit27Warning": true,
     "editor.wordWrap": "on",
@@ -16,5 +16,6 @@
       "source.fixAll": true
     },
     "extensions.ignoreRecommendations": true,
+    "terminal.integrated.fontFamily": "JetBrains Mono, Fira Code",
 
 }
