@@ -1,6 +1,5 @@
 {
-    "workbench.colorTheme": "Dracula",
-    "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "material-icon-theme",
     "git.ignoreWindowsGit27Warning": true,
     "editor.wordWrap": "on",
     "editor.fontSize": 16,
@@ -15,7 +14,14 @@
     "editor.codeActionsOnSave": {
       "source.fixAll": true
     },
+    
     "extensions.ignoreRecommendations": true,
     "terminal.integrated.fontFamily": "JetBrains Mono, Fira Code",
-
+    "workbench.colorTheme": "Dracula",
+    "window.zoomLevel": 1,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "haskell.manageHLS": "GHCup",
+    "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
 }
