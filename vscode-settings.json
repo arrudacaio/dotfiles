@@ -5,23 +5,29 @@
     "editor.fontSize": 16,
     "editor.lineHeight": 20,
     "terminal.integrated.fontSize": 14,
+    "editor.formatOnSave": true,
     "editor.tabSize": 2,
     "editor.fontFamily": "JetBrains Mono, Fira Code",
     "editor.fontLigatures": true,
+    "editor.trimAutoWhitespace": true,
     "editor.renderLineHighlight": "gutter",
     "editor.rulers": [80, 120],
     "editor.parameterHints.enabled": false,
     "editor.codeActionsOnSave": {
       "source.fixAll": true
     },
-    
+
     "extensions.ignoreRecommendations": true,
     "terminal.integrated.fontFamily": "JetBrains Mono, Fira Code",
     "workbench.colorTheme": "Dracula",
-    "window.zoomLevel": 1,
     "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
     "haskell.manageHLS": "GHCup",
     "[javascript]": {
       "editor.defaultFormatter": "vscode.typescript-language-features"
-    }
+    },
+    "window.zoomLevel": 1,
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "files.trimTrailingWhitespace": true
 }
