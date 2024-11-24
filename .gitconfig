@@ -3,3 +3,22 @@
 	name = Caio Arruda
 [core]
 	editor = code
+[color]
+	branch = auto
+	diff = auto
+	status = auto
+	ui = auto
+[color "diff"]
+	meta = yellow bold
+	frag = magenta bold
+	old = red bold
+	new = green bold
+[color "status"]
+	added = yellow
+	changed = green
+	untracked = cyan
+[pull]
+	rebase = true
+[branch]
+	autosetuprebase = always
+
